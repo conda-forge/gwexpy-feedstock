@@ -1,5 +1,5 @@
 context:
-  version: "0.2.8"
+  version: "0.2.9"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/gwexpy/gwexpy-${{ version }}.tar.gz
-  sha256: 2393836500ebef9bf9bd133620f300259bc9180fb83c04a693c24f3c78d90d80
+  sha256: 0af3c1650718e41e77258572dfcd395a9b397b8a0dfbb3324b13b2313497ee2f
 
 build:
   number: 0
